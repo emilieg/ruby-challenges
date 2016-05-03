@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Ruby Challenges
 
 Fork and clone this repo, and complete each challenge in a separate file.
@@ -63,4 +64,16 @@ The number is higher than 17.  Guess again
 The number is higher than 18.  Guess again
 19
 You got it in 7 tries
+=======
+#Ruby Exercises
+
+Let's practice using loops, conditionals, arrays, hashes, and methods in Ruby.
+
+Inside this folder are a few ruby files with exercises written in comments. Fork and clone this repository and complete the exercises.
+
+You can run a file using ruby like so:
+
+```
+ruby 01loops.rb
+>>>>>>> cd3cd590406107e08f55bc90fc3748320987cb43
 ```
